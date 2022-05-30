@@ -1,0 +1,1 @@
+export 'package:vertical_landing_app/ui/screens/home_screen.dart';

@@ -1,0 +1,1 @@
+export 'package:vertical_landing_app/providers/screen_provider.dart';
